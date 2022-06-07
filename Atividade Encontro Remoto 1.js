@@ -6,7 +6,7 @@ if (peso < 100){
  else {
     console.log ("a peça tem o peso requerido")}
 
-// caixa suporta até 10 peças
+// peso superior à 100g
 if (listaDePecas.length < 10 ){
    console.log("É possível cadastrar mais peças na lista")
 } else {
